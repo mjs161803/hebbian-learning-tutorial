@@ -26,8 +26,10 @@ This tutorial implements a Hebbian learning approach that:
 
 2. Build and run the container:
    ```bash
-   docker-compose up
+   docker compose up
    ```
+   
+   Note: If you have Docker Compose v1, use `docker-compose up` instead.
 
 3. Open your browser and navigate to:
    ```
